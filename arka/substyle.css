@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	background-image: "asset/pura-ulun-danu-bratan.jpg";
+}
+
+#title{
+	font-family: 'Pacifico';
+}
+
+#about{
+	font-family: 'Lato';
+}
+

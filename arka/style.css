@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	height: 100%;
+}
+
+.bg{ 
+
+	background: url('file:///C:/Users/Erlangga/Documents/Web/arka/pura-ulun-danu-bratan.png');
+	height: 100%; 
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#tagline,#buttons{
+	font-family: 'Pacifico';
+}
+
+#tagline1{
+	font-family: 'Roboto Condensed';
+}
+
+
+
